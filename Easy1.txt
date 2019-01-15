@@ -1,0 +1,30 @@
+Is Python case sensitive when dealing with identifiers?
+a) yes
+b) no
+c) machine dependent
+d) none of the mentioned
+A
+What is the maximum possible length of an identifier?
+a) 31 characters
+b) 63 characters
+c) 79 characters
+d) none of the mentioned
+D
+Why are local variable names beginning with an underscore discouraged?
+a) they are used to indicate a private variables of a class
+b) they confuse the interpreter
+c) they are used to indicate global variables
+d) they slow down execution
+A
+Which of the following is not a keyword?
+a) eval
+b) assert
+c) nonlocal
+d) pass
+A
+All keywords in Python are in
+a) lower case
+b) UPPER CASE
+c) Capitalized
+d) None of the mentioned
+D

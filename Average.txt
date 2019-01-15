@@ -1,0 +1,30 @@
+Which among them is used to create an object
+class
+function
+method
+constructor
+D
+Select the option where you can display an image
+Only A label
+Only A button and A label
+Only A checkbox
+A label,a check box,a button and a radio button.
+D
+What is the output for 'you are doing well' [2:999]
+'you are doing well'
+Index error.
+'u are doing well' 
+None
+D
+Which Of The Following Represents A Template,Blueprint,Or Contract That Defines Objects Of The Same Type
+Class
+An object
+A method
+A data field
+A
+Which Of The Following Keywords Mark The Beginning Of The Class Definition?
+def
+return
+class
+All of the above
+C

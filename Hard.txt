@@ -1,0 +1,30 @@
+Which of these in not a core data type?
+a) Lists
+b) Dictionary
+c) Tuples
+d) Class
+D
+Given a function that does not return any value, What value is thrown by default when executed in shell.
+a) int
+b) bool
+c) void
+d) None
+D
+Which of the following will run without errors ?
+a) round(45.8)
+b) round(6352.898,2,5)
+c) round()
+d) round(7463.123,2,1)
+A
+What is the return type of function id ?
+a) int
+b) float
+c) bool
+d) dict
+A
+In order to store values in terms of key and value we use what core data type.
+a) list
+b) tuple
+c) class
+d) dictionary
+D
